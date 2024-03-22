@@ -1,9 +1,9 @@
 # Municípios que Aderiram à Operação Corta Fogo
 
 [![Repo](https://img.shields.io/badge/GitHub-repo-blue?logo=github&logoColor=f5f5f5)](https://github.com/open-focos/corta_fogo)
-![GitHub last commit (branch)](https://img.shields.io/github/last-commit/open-focos/corta_fogo/main)
+![Static Badge](https://img.shields.io/badge/Update-21.03.2024-blue?logo=Google%20Calendar&logoColor=white)
 
-O estado de São Paulo conta com o Sistema Estadual de Prevenção e Combate a Incêndios Florestais, criado pela Lei estadual nº 10.547, de 02 de maio de 2000 e regulamentado pelo Decreto estadual nº 56.571, 22 de dezembro de 2010.
+O Estado de São Paulo conta com o Sistema Estadual de Prevenção e Combate a Incêndios Florestais, criado pela Lei Estadual nº 10.547, de 02 de maio de 2000 e regulamentado pelo Decreto Estadual nº 56.571, 22 de dezembro de 2010.
 
 O Sistema, que no período de junho de 2011 a maio de 2023 foi chamado de Operação Corta-Fogo, recebeu um novo nome e a partir de junho de 2023 passou a ser denominado de Operação São Paulo Sem Fogo. Dentre os objetivos da Operação, destacam-se os seguintes:
 
